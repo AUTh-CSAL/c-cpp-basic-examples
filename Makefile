@@ -1,3 +1,4 @@
+# New makefile
 CC=g++
 CFLAGS=-O3
 
